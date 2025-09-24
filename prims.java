@@ -43,3 +43,12 @@ public class Solution {
         prims(a,v);
     }
 }
+
+
+
+
+//NOTES
+/* min no. of edge=v-1
+no. of spanning tree=v(v-1)/2
+starting vertex=always vistied 
+*/
